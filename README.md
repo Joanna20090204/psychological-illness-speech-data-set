@@ -29,7 +29,7 @@ There are 21,236 pieces of data. I will continue to expand my dataset.And I wish
 
 2代表躁郁症（双向情感障碍）
 
-3代表应激后创伤障碍
+3代表创伤后应激障碍
 
 4代表正常
 
